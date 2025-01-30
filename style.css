@@ -57,3 +57,10 @@ main article a:hover{
     color: lightblue;
     background: rgb(39, 39, 39);
 }
+main article div{
+    display: flex;
+    padding: 1%;
+}
+main article div img{
+    width: 30%;
+}
